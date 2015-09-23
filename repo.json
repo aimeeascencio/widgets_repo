@@ -1,0 +1,9 @@
+{
+    "schema_version": "1",
+    "widgets": [{
+        "repository": "<cdn_link_to_repo_holding_widget>",
+        "name": "<widget_name>",
+        "description": "<widget_description>",
+        "webpage": "<github_link_to_widgets>"
+    },]
+}
